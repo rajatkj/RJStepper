@@ -22,7 +22,7 @@ pod 'RJStepper'
 
 ## Author
 
-rico9260, rajat.kumar@hedgehoglab.com
+rico9260, rajat.zangra@gmail.com
 
 ## License
 

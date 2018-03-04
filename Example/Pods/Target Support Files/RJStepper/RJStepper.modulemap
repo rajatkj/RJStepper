@@ -1,0 +1,6 @@
+framework module RJStepper {
+  umbrella header "RJStepper-umbrella.h"
+
+  export *
+  module * { export * }
+}

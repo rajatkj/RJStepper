@@ -1,0 +1,22 @@
+{
+  "name": "RJStepper",
+  "version": "0.1.0",
+  "summary": "A short description of RJStepper.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/rico9260/RJStepper",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "rico9260": "rajat.kumar@hedgehoglab.com"
+  },
+  "source": {
+    "git": "https://github.com/rico9260/RJStepper.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RJStepper/Classes/**/*"
+}
