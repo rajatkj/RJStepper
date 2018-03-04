@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'RJStepper_Example' do
+  pod 'RJStepper', :path => '../'
+
+  target 'RJStepper_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
